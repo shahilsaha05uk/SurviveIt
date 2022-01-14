@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60ccacf766b48d94dbd57eb0edb69c85, type: 3}
+  m_Name: Walls
+  m_EditorClassIdentifier: 
+  type: 3
+  txt_name: Walls1
+  txt_cost: 1000
+  txt_upgradeCost: 4000
+  item: {fileID: 1039085574943096474, guid: 46440156302e00f46bac0e02dffa42df, type: 3}
+  itemUpgrade: {fileID: 5174313238745760444, guid: fbec8082ecfd2d14ca86173a9abec4ab, type: 3}
+  range: {x: 0, y: 0, z: 0}
+  health: 0
